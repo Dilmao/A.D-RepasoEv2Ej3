@@ -14,7 +14,7 @@ public class Menu {
 
             switch (opcion) {
                 case "0" -> {}
-                case "1" -> {}
+                case "1" -> {}  // TODO modificar 'SegundaFuncion' y 'ProjectDTO'
                 default -> System.out.println("Opción no valida");
             }
         }

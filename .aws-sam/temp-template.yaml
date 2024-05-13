@@ -4,7 +4,7 @@ Resources:
     Properties:
       Timeout: 300
       MemorySize: 128
-      Handler: code.DepartamentDetailsFunction
+      Handler: code.listener.DepartamentDetailsFunction
       CodeUri: C:\Users\AlumnoFP\IdeaProjects\Diego\A.D\RepasoEv2Ej3
       Runtime: java17
       Architectures:
